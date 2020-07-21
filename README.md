@@ -5,7 +5,7 @@ ImageFilter is a java program to add filters to your image.
 
 # Some Examples
 
-**note: Some may look weird because of the github background color** <br />
+**note: The final 2 will look weird because of the github background color** <br />
 
 ![alt text](https://github.com/goldshay135/ImageFilter/blob/master/doc.jpg?raw=true) <br />
 ![alt text](https://github.com/goldshay135/ImageFilter/blob/master/DocBlue.png?raw=true) <br />
@@ -19,6 +19,6 @@ ImageFilter is a java program to add filters to your image.
 
 ![alt text](https://github.com/goldshay135/ImageFilter/blob/master/Mossad.png?raw=true) <br />
 ![alt text](https://github.com/goldshay135/ImageFilter/blob/master/mossadblue.png?raw=true) <br />
+![alt text](https://github.com/goldshay135/ImageFilter/blob/master/MossadBlackAndWhite.png?raw=true) <br />
 ![alt text](https://github.com/goldshay135/ImageFilter/blob/master/MossadAcid1.png?raw=true) <br />
 ![alt text](https://github.com/goldshay135/ImageFilter/blob/master/MossadAcid2.png?raw=true) <br />
-![alt text](https://github.com/goldshay135/ImageFilter/blob/master/MossadBlackAndWhite.png?raw=true) <br />
