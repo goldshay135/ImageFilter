@@ -3,7 +3,7 @@ ImageFilter is a java program to add filters to your image.
 
 <br />
 
-#Some Examples
+# Some Examples
 
 **note: Some may look weird because of the github background color** <br />
 
